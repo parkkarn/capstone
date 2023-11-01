@@ -1,3 +1,4 @@
-안녕하세요
-캡스톤디자인 그린데이팀입니다.
-주제는 수기경 스마트팜(흙없는 스마트팜)입니다.
+Capstone Design Team : GreenDay Repository
+Title : Aero Fram(흙없는 스마트팜)
+Team Leader : 박승민
+Team member : 권준서
