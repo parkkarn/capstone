@@ -16,7 +16,7 @@
 - 식물 틀에 넣고 구성하기,가습기 모듈 구현 (11/1완료)
 - 캡스톤 디자인 중간발표(11/2)
 - Co2 센서 사용법 숙달하기
-- Hardware Requuirement 서류 작성
+- Hardware Requirement 서류 작성
 - 가습 모듈과 워터펌프로 가습장치 만들기
 - 파이썬으로 각 모듈 기능 코딩
 - Software Requirement 서류 작성
