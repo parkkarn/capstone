@@ -21,7 +21,7 @@
 - 파이썬으로 각 모듈 기능 코딩
 - Software Requirement 서류 작성
 #### AWS Server 구성
-- EC2 서버 열기
+- EC2 서버 열기(11/16)
 - RDS 연결하기
 - S3 연결하기
 - 스마트팜의 측정 정보 AWS Server로 보내기
