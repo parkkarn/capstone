@@ -5,7 +5,7 @@
 ### TodoList
 1. 스마트팜 개발
 2. AWS Server 구성
-3. Android Application 개발
+3. [Android Application 개발](https://github.com/parkkarn/CapstoneApp)
 ---
 #### 프로젝트 시작
 - Requirement Analysis 서류 작성(10/3)
