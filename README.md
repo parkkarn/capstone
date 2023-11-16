@@ -22,7 +22,7 @@
 - Software Requirement 서류 작성
 #### AWS Server 구성
 - EC2 서버 열기(11/16)
-- RDS 연결하기
+- RDS 연결하기(11/16)
 - 스마트팜의 측정 정보 AWS Server로 보내기
 #### Android Application 개발
 - AWS Server의 데이터를 받아와 출력하기
