@@ -23,7 +23,7 @@
 #### AWS Server 구성
 - EC2 서버 열기(11/16)
 - RDS 연결하기(11/16)
-- 스마트팜의 측정 정보 AWS Server로 보내기
+- 스마트팜의 측정 정보 AWS Server로 보내기(테스트 완)
 #### Android Application 개발
 - AWS Server의 데이터를 받아와 출력하기
 - 그래프 Library를 이용해 분 단위로 데이터 그래프 구현
