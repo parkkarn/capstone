@@ -4,8 +4,8 @@
 
 ### TodoList
 1. 스마트팜 개발
-2. AWS Server 구성
-3. [Android Application 개발](https://github.com/parkkarn/CapstoneApp)
+2. AWS Server 구성(완료)
+3. [Android Application 개발](https://github.com/parkkarn/CapstoneApp)(완료)
 ---
 #### 프로젝트 시작
 - [Requirement Analysis 서류 작성(10/3)](https://github.com/parkkarn/capstone/blob/main/V%EB%AA%A8%EB%8D%B8.xlsx)
@@ -18,15 +18,15 @@
 - Co2 센서 사용법 숙달하기(11/8)
 - Hardware Requirement 서류 작성
 - 가습 모듈과 워터펌프로 가습장치 만들기(11/13)
-- 파이썬으로 각 모듈 기능 코딩
+- 파이썬으로 각 모듈 기능 코딩(11/15)
 - Software Requirement 서류 작성
 #### AWS Server 구성
 - EC2 서버 열기(11/16)
 - RDS 연결하기(11/16)
-- 스마트팜의 측정 정보 AWS Server로 보내기(테스트 완)
+- 스마트팜의 측정 정보 AWS Server로 보내기(11/22)
 #### Android Application 개발
-- AWS Server의 데이터를 받아와 출력하기
-- 그래프 Library를 이용해 분 단위로 데이터 그래프 구현
+- AWS Server의 데이터를 받아와 출력하기(11/24)
+- 그래프 Library를 이용해 분 단위로 데이터 그래프 구현(11/25)
 - Application 디자인 수정하기
 #### 최종 마무리
 - V 모델 순으로 다시 점검하여 최종 평가하기
