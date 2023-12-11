@@ -1,4 +1,4 @@
-# Capstone Design Team : GreenDay
+![image](https://github.com/parkkarn/capstone/assets/114542831/e14f9539-f240-4723-bc87-a2a548ad03c9)# Capstone Design Team : GreenDay
 ## Title : Aero Fram(흙없는 스마트팜)
 #### Team Leader : 박승민  Team member : 권준서
 
@@ -30,7 +30,8 @@
 - EC2 서버 열기(11/16)
 - RDS 연결하기(11/16)
 - 스마트팜의 측정 정보 AWS Server로 보내기(11/22)
-  
+![image](https://github.com/parkkarn/capstone/assets/114542831/84ddc662-0989-4a43-8cc9-d80ed67d097a)
+
 #### Android Application 개발(완료)
 - AWS Server의 데이터를 받아와 출력하기(11/24)
 - 그래프 Library를 이용해 분 단위로 데이터 그래프 구현(11/25)
