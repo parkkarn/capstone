@@ -2,7 +2,7 @@
 ## Title : Aero Fram(흙없는 스마트팜)
 #### Team Leader : 박승민  Team member : 권준서
 
-### TodoList
+### TodoList 
 1. 스마트팜 개발(11/26)완료)
 2. AWS Server 구성(완료)
 3. [Android Application 개발](https://github.com/parkkarn/CapstoneApp)(완료)
