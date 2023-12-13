@@ -15,7 +15,7 @@
 - [Requirement Analysis 서류 작성(10/3)](https://github.com/parkkarn/capstone/blob/main/V%EB%AA%A8%EB%8D%B8.xlsx)
 - [Hardware Requirement 서류 작성(11/12)](https://github.com/parkkarn/capstone/blob/main/V%EB%AA%A8%EB%8D%B8.xlsx)
 - [Software Requirement 서류 작성(11/13)](https://github.com/parkkarn/capstone/blob/main/V%EB%AA%A8%EB%8D%B8.xlsx)
-- 판넬 서류 작성
+- 판넬 서류 작성(12/1)
   
 #### 스마트팜 개발(완료)
 - LED 케이스에 달기(10/31)
