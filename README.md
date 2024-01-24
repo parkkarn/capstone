@@ -41,3 +41,6 @@
 - 캡스톤 디자인 마무리 서류 작성하기(12/13)
 - ppt 작성하기(12/14)
 - 보고서 작성하기(12/14)
+
+
+<img src="https://github.com/parkkarn/capstone/blob/main/AWS%20Diagram.png?raw=true" width=90%>
